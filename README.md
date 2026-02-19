@@ -3,6 +3,11 @@
 This project is an end-to-end Sales Performance Dashboard built in Microsoft Excel.  
 Starting from raw sales data, I performed data cleaning, transformation, KPI calculation, and interactive dashboard visualization.
 
+## 📷 Dashboard Preview
+
+![Sales Dashboard](images/Sales_Dashboard-preview.jpg)
+
+
 ---
 
 ## 📁 Project Files
