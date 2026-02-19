@@ -5,7 +5,7 @@ Starting from raw sales data, I performed data cleaning, transformation, KPI cal
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](images/Sales_Dashboard-preview.jpg)
+![Sales Dashboard](Sales-dashboard-preview.jpg)
 
 
 ---
